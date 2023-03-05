@@ -13,10 +13,10 @@ function onLoad() {
 	defineHeading4();
 	swapInnerHTML();
 	dateAlter();
-	//getNbDays();
+	getNbDays();
 	updateClock1();
-	//updateClock2();
-	//updateGraphicClock();
+	updateClock2();
+	updateGraphicClock();
 	inputNombre();
 	menu();
 }
